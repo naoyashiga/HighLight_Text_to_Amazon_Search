@@ -1,4 +1,4 @@
-HighLight_Text_to_Amazon_Search
+HighLight Text to Amazon Search
 ============
 テキストを選択し、右クリックを押してからアイコンを選択すると、Amazonで検索することができます。
 
