@@ -1,0 +1,19 @@
+{
+	"name":"HighLight Text to Amazon Search",
+	"version":"0.1",
+	"manifest_version":2,
+
+	"description":"ハイライトした文字列をAmazonで検索するよ",
+
+	"permissions":[
+		"tabs","http://*/*","contextMenus"
+	],
+
+	"icons":{
+		"16":"icon16.png"
+	},
+
+	"background":{
+		"scripts":["background.js"]
+	}
+}
